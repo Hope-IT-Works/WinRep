@@ -18,3 +18,8 @@ WinRep is written in PowerShell and was converted to an executable using [PS2EXE
 2. Execute [```.\build\build-winrep.bat```](./build/build-winrep.bat)
 3. Enter version number
 4. Done 🎉
+
+## Compatibility
+- Windows 10 64bit
+- Windows 11 64bit
+- *maybe more... (not tested)*
