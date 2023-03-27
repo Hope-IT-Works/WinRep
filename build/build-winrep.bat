@@ -1,0 +1,1 @@
+powershell -File ".\build-winrep.ps1"
