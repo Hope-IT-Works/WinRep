@@ -23,3 +23,9 @@ WinRep is written in PowerShell and was converted to an executable using [PS2EXE
 - Windows 10 64bit
 - Windows 11 64bit
 - *maybe more... (not tested)*
+
+
+## Stars over time
+Thanks for your support!
+
+[![Stars over time](https://starchart.cc/Hope-IT-Works/WinRep.svg)](https://starchart.cc/Hope-IT-Works/WinRep)
